@@ -1,0 +1,4078 @@
+ [
+        {
+          "tradableInstrumentId": 200,
+          "id": 229,
+          "name": "ADAUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "ADAUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 201,
+          "id": 230,
+          "name": "AVAUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AVAUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 202,
+          "id": 231,
+          "name": "BATUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "BATUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 203,
+          "id": 232,
+          "name": "BCHUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "BCHUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 205,
+          "id": 234,
+          "name": "BNBUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "BNBUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 206,
+          "id": 235,
+          "name": "BTCUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "BTCUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 207,
+          "id": 236,
+          "name": "DASHUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "DASHUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 208,
+          "id": 237,
+          "name": "DOGEUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "DOGEUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 210,
+          "id": 239,
+          "name": "DOTUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "DOTUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 212,
+          "id": 241,
+          "name": "EOSUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EOSUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 213,
+          "id": 242,
+          "name": "ETCUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "ETCUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 214,
+          "id": 243,
+          "name": "ETHUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "ETHUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 215,
+          "id": 244,
+          "name": "IOTAUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "IOTAUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 216,
+          "id": 245,
+          "name": "LTCUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "LTCUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 218,
+          "id": 247,
+          "name": "NEOUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NEOUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 219,
+          "id": 248,
+          "name": "OMGUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "OMGUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 220,
+          "id": 249,
+          "name": "SHBUSD1000",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "SHBUSD1000",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 221,
+          "id": 250,
+          "name": "SOLUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "SOLUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 222,
+          "id": 251,
+          "name": "TRXUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "TRXUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 223,
+          "id": 252,
+          "name": "XLMUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XLMUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 224,
+          "id": 253,
+          "name": "XMRUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XMRUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 225,
+          "id": 254,
+          "name": "XRPUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XRPUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 226,
+          "id": 255,
+          "name": "ZECUSD",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Crypto",
+          "marketDataExchange": "Cryptos",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "ZECUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 227,
+          "id": 260,
+          "name": "AUDCAD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDCAD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 228,
+          "id": 261,
+          "name": "AUDCHF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDCHF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 229,
+          "id": 262,
+          "name": "AUDJPY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDJPY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 230,
+          "id": 263,
+          "name": "AUDNZD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDNZD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 231,
+          "id": 264,
+          "name": "CADCHF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CADCHF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 232,
+          "id": 265,
+          "name": "CADJPY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CADJPY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 233,
+          "id": 266,
+          "name": "CHFJPY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CHFJPY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 234,
+          "id": 267,
+          "name": "EURAUD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURAUD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 235,
+          "id": 268,
+          "name": "EURCAD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURCAD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 236,
+          "id": 269,
+          "name": "EURCHF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURCHF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 237,
+          "id": 270,
+          "name": "EURGBP",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURGBP",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 238,
+          "id": 271,
+          "name": "EURJPY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURJPY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 239,
+          "id": 272,
+          "name": "EURNZD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURNZD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 240,
+          "id": 273,
+          "name": "GBPAUD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPAUD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 241,
+          "id": 274,
+          "name": "GBPCAD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPCAD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 242,
+          "id": 275,
+          "name": "GBPCHF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPCHF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 243,
+          "id": 276,
+          "name": "GBPJPY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPJPY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 244,
+          "id": 277,
+          "name": "GBPNZD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPNZD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 245,
+          "id": 278,
+          "name": "NZDCAD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDCAD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 246,
+          "id": 279,
+          "name": "NZDCHF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDCHF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 247,
+          "id": 280,
+          "name": "NZDJPY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDJPY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 248,
+          "id": 281,
+          "name": "CADSGD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CADSGD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 249,
+          "id": 282,
+          "name": "EURCZK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURCZK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 250,
+          "id": 283,
+          "name": "EURDKK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURDKK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 251,
+          "id": 284,
+          "name": "EURHKD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURHKD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 252,
+          "id": 285,
+          "name": "EURHUF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURHUF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 253,
+          "id": 286,
+          "name": "EURNOK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURNOK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 254,
+          "id": 287,
+          "name": "EURPLN",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURPLN",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 255,
+          "id": 288,
+          "name": "EURSEK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURSEK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 256,
+          "id": 289,
+          "name": "EURSGD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURSGD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 257,
+          "id": 290,
+          "name": "EURTRY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURTRY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 258,
+          "id": 291,
+          "name": "EURZAR",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURZAR",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 259,
+          "id": 292,
+          "name": "GBPDKK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPDKK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 260,
+          "id": 293,
+          "name": "GBPNOK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPNOK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 261,
+          "id": 294,
+          "name": "GBPSEK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPSEK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 262,
+          "id": 295,
+          "name": "NOKSEK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NOKSEK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 264,
+          "id": 299,
+          "name": "USDCZK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCZK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 265,
+          "id": 300,
+          "name": "USDDKK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDDKK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 266,
+          "id": 301,
+          "name": "USDHKD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDHKD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 267,
+          "id": 302,
+          "name": "USDHUF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDHUF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 268,
+          "id": 304,
+          "name": "USDILS",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDILS",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 269,
+          "id": 305,
+          "name": "USDMXN",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDMXN",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 270,
+          "id": 306,
+          "name": "USDNOK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDNOK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 271,
+          "id": 307,
+          "name": "USDPLN",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDPLN",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 272,
+          "id": 309,
+          "name": "USDRUB",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDRUB",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 273,
+          "id": 310,
+          "name": "USDSEK",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDSEK",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 274,
+          "id": 311,
+          "name": "USDSGD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDSGD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 275,
+          "id": 312,
+          "name": "USDTRY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDTRY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 276,
+          "id": 313,
+          "name": "USDZAR",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDZAR",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 277,
+          "id": 314,
+          "name": "AUDUSD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Majors",
+          "marketDataExchange": "Forex Majors",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 278,
+          "id": 315,
+          "name": "EURUSD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Majors",
+          "marketDataExchange": "Forex Majors",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 279,
+          "id": 316,
+          "name": "GBPUSD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Majors",
+          "marketDataExchange": "Forex Majors",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 280,
+          "id": 317,
+          "name": "NZDUSD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Majors",
+          "marketDataExchange": "Forex Majors",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 281,
+          "id": 318,
+          "name": "USDCAD",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Majors",
+          "marketDataExchange": "Forex Majors",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCAD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 282,
+          "id": 319,
+          "name": "USDCHF",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Majors",
+          "marketDataExchange": "Forex Majors",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCHF",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 283,
+          "id": 320,
+          "name": "USDJPY",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Majors",
+          "marketDataExchange": "Forex Majors",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDJPY",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 285,
+          "id": 297,
+          "name": "USDCNH",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Exotics",
+          "marketDataExchange": "Forex Exotics",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCNH",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 286,
+          "id": 324,
+          "name": "NGAS",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Energies",
+          "marketDataExchange": "Energies",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NGAS",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 287,
+          "id": 325,
+          "name": "UKOIL",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Energies",
+          "marketDataExchange": "Energies",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "UKOIL",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 288,
+          "id": 326,
+          "name": "USOIL",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Energies",
+          "marketDataExchange": "Energies",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USOIL",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 299,
+          "id": 339,
+          "name": "DAX",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "DAX",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 300,
+          "id": 340,
+          "name": "DOLLAR",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "DOLLAR",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 301,
+          "id": 341,
+          "name": "ESP35",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "ESP35",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 302,
+          "id": 342,
+          "name": "EUSTX50",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EUSTX50",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 303,
+          "id": 343,
+          "name": "FRA40",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "FRA40",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 305,
+          "id": 345,
+          "name": "JPN225",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "JPN225",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 306,
+          "id": 346,
+          "name": "NAS100",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NAS100",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 307,
+          "id": 347,
+          "name": "SPX500",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "SPX500",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 308,
+          "id": 348,
+          "name": "UK100",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "UK100",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 309,
+          "id": 349,
+          "name": "US30",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "US30",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 311,
+          "id": 352,
+          "name": "COPPER",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Metals",
+          "marketDataExchange": "Metals",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "COPPER",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 312,
+          "id": 353,
+          "name": "XAGUSD",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Metals",
+          "marketDataExchange": "Metals",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XAGUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 313,
+          "id": 354,
+          "name": "XAUEUR",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Metals",
+          "marketDataExchange": "Metals",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XAUEUR",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 314,
+          "id": 355,
+          "name": "XAUUSD",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Metals",
+          "marketDataExchange": "Metals",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XAUUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 315,
+          "id": 356,
+          "name": "XPTUSD",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Metals",
+          "marketDataExchange": "Metals",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XPTUSD",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 502,
+          "id": 685,
+          "name": "AUDCAD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDCAD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 503,
+          "id": 686,
+          "name": "CADJPY.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CADJPY.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 504,
+          "id": 687,
+          "name": "EURCAD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURCAD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 505,
+          "id": 688,
+          "name": "AUDJPY.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDJPY.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 509,
+          "id": 692,
+          "name": "EURGBP.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURGBP.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 510,
+          "id": 693,
+          "name": "GBPNZD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPNZD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 511,
+          "id": 694,
+          "name": "AUDCHF.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDCHF.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 512,
+          "id": 695,
+          "name": "NZDCHF.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDCHF.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 513,
+          "id": 696,
+          "name": "EURNZD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURNZD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 514,
+          "id": 697,
+          "name": "GBPAUD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPAUD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 517,
+          "id": 700,
+          "name": "NZDCAD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDCAD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 518,
+          "id": 701,
+          "name": "CHFJPY.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CHFJPY.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 519,
+          "id": 702,
+          "name": "GBPJPY.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPJPY.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 520,
+          "id": 703,
+          "name": "EURAUD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURAUD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 521,
+          "id": 704,
+          "name": "CADCHF.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CADCHF.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 522,
+          "id": 705,
+          "name": "GBPCAD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPCAD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 523,
+          "id": 706,
+          "name": "NZDJPY.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDJPY.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 526,
+          "id": 709,
+          "name": "EURCHF.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURCHF.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 527,
+          "id": 710,
+          "name": "GBPCHF.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPCHF.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 528,
+          "id": 711,
+          "name": "EURJPY.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURJPY.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 529,
+          "id": 712,
+          "name": "AUDNZD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Cross",
+          "marketDataExchange": "Forex Pro Cross",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDNZD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 530,
+          "id": 713,
+          "name": "AUDUSD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Major",
+          "marketDataExchange": "Forex Pro Major",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDUSD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 531,
+          "id": 714,
+          "name": "USDCAD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Major",
+          "marketDataExchange": "Forex Pro Major",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCAD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 532,
+          "id": 715,
+          "name": "USDCHF.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Major",
+          "marketDataExchange": "Forex Pro Major",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCHF.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 533,
+          "id": 716,
+          "name": "USDJPY.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Major",
+          "marketDataExchange": "Forex Pro Major",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDJPY.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 534,
+          "id": 717,
+          "name": "NZDUSD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Major",
+          "marketDataExchange": "Forex Pro Major",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDUSD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 536,
+          "id": 719,
+          "name": "EURUSD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Major",
+          "marketDataExchange": "Forex Pro Major",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURUSD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 537,
+          "id": 720,
+          "name": "GBPUSD.PRO",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Forex Pro Major",
+          "marketDataExchange": "Forex Pro Major",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPUSD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 591,
+          "id": 776,
+          "name": "US30.PRO",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Indexes",
+          "marketDataExchange": "Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "US30.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 595,
+          "id": 781,
+          "name": "XAUUSD.PRO",
+          "description": "",
+          "type": "EQUITY_CFD",
+          "tradingExchange": "Metals",
+          "marketDataExchange": "Metals",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "XAUUSD.PRO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 597,
+          "id": 783,
+          "name": "NZDCHF.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDCHF.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 598,
+          "id": 784,
+          "name": "EURCHF.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURCHF.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 599,
+          "id": 785,
+          "name": "EURNZD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURNZD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 600,
+          "id": 786,
+          "name": "USDJPY.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDJPY.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 601,
+          "id": 787,
+          "name": "CADCHF.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CADCHF.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 602,
+          "id": 788,
+          "name": "EURUSD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURUSD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 604,
+          "id": 790,
+          "name": "GBPCAD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPCAD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 605,
+          "id": 791,
+          "name": "AUDCAD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDCAD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 606,
+          "id": 792,
+          "name": "USDCAD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCAD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 607,
+          "id": 793,
+          "name": "AUDJPY.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDJPY.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 608,
+          "id": 794,
+          "name": "GBPJPY.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPJPY.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 609,
+          "id": 795,
+          "name": "GBPCHF.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPCHF.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 610,
+          "id": 796,
+          "name": "NZDCAD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDCAD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 611,
+          "id": 797,
+          "name": "AUDCHF.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDCHF.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 612,
+          "id": 798,
+          "name": "CADJPY.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CADJPY.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 613,
+          "id": 799,
+          "name": "EURSGD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURSGD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 614,
+          "id": 800,
+          "name": "USDCHF.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "USDCHF.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 615,
+          "id": 801,
+          "name": "AUDNZD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDNZD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 616,
+          "id": 802,
+          "name": "EURCAD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURCAD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 617,
+          "id": 803,
+          "name": "EURJPY.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURJPY.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 618,
+          "id": 804,
+          "name": "AUDUSD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "AUDUSD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 619,
+          "id": 805,
+          "name": "GBPNZD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPNZD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 620,
+          "id": 806,
+          "name": "EURGBP.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURGBP.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 621,
+          "id": 807,
+          "name": "GBPAUD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPAUD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 622,
+          "id": 808,
+          "name": "GBPUSD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "GBPUSD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 623,
+          "id": 809,
+          "name": "NZDJPY.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDJPY.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 624,
+          "id": 810,
+          "name": "NZDUSD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NZDUSD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 625,
+          "id": 811,
+          "name": "CHFJPY.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "CHFJPY.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 626,
+          "id": 812,
+          "name": "EURAUD.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Forex",
+          "marketDataExchange": "Mini Forex",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "EURAUD.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 627,
+          "id": 814,
+          "name": "DAX.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Indexes",
+          "marketDataExchange": "Mini Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "DAX.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 628,
+          "id": 815,
+          "name": "SPX500.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Indexes",
+          "marketDataExchange": "Mini Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "SPX500.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 629,
+          "id": 816,
+          "name": "US30.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Indexes",
+          "marketDataExchange": "Mini Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "US30.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 630,
+          "id": 817,
+          "name": "NAS100.MINI",
+          "description": "",
+          "type": "FOREX",
+          "tradingExchange": "Mini Indexes",
+          "marketDataExchange": "Mini Indexes",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "NAS100.MINI",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 900,
+          "id": 1151,
+          "name": "BTCUSD.TDO",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "TFT",
+          "marketDataExchange": "TFT",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "BTCUSD.TDO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        },
+        {
+          "tradableInstrumentId": 901,
+          "id": 1152,
+          "name": "ETCUSD.TDO",
+          "description": "",
+          "type": "CRYPTO",
+          "tradingExchange": "Forex Crosses",
+          "marketDataExchange": "Forex Crosses",
+          "country": null,
+          "logoUrl": null,
+          "localizedName": "ETCUSD.TDO",
+          "routes": [
+            {
+              "id": 9912,
+              "type": "TRADE"
+            },
+            {
+              "id": 452,
+              "type": "INFO"
+            }
+          ],
+          "barSource": "BID",
+          "hasIntraday": true,
+          "hasDaily": true
+        }
+      ]
+  
